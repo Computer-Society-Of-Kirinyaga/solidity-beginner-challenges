@@ -2,7 +2,7 @@
 
 ## 🎯 Goal
 Practice writing and returning values from functions.
-
+ 
 ## 🛠️ Task
 Create a function `doubleNumber` that:
 - takes a number
