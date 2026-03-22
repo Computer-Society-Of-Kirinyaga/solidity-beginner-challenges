@@ -10,7 +10,7 @@ Understand how to store and update variables in Solidity.
 
 ## 🛠️ Task
 Create a function `setValues` that:
-- takes a number, string, and boolean
+- takes a number, string, and boolean 
 - updates the contract variables
 
 ## 💡 Hint
